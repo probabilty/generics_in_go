@@ -2,7 +2,7 @@
 Introduction to generics in Golang
 
 ## for detalied information check out this blog page
-https://www.blogger.com/blog/post/edit/208084784584184448/8605959768588641461
+https://light-syntax.blogspot.com/2021/12/generics-in-golang.html
 ## facebook
 https://www.facebook.com/Ahmad.Ezzat.Mohy/
 ## youtube 
